@@ -30,4 +30,6 @@ A link (if available) to view the project or see the code on GitHub.
 The final section of the website includes contact information so that people can reach out to me easily. It includes:
 A simple contact form which asks the users to enter required details.
 It’s a way for collaborators, mentors, or recruiters to get in touch.
+---
 Everything is kept in the root directory since the project is still simple.
+---
